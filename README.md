@@ -9,13 +9,13 @@ This web application allows employees to participate in polls, create new polls,
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/hashimbagasi/project-Employee-polls?tab=readme-ov-file
+   git clone https://github.com/abooajab/Employee_pollsNew
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd employeePolls-Udacity
+   cd Employee_pollsNew
    ```
 
 3. Install dependencies:
@@ -58,32 +58,32 @@ To test the app using Jest, type:
 ## Sample Screenshots
 
 ### Home Page
-![Home Page](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/home_page.png)
+![Home Page](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/home_page.png)
 
 <hr></hr>
 
 ### Leaderboard Page
-![Leaderboard Page](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/leaderboard_page.png)
+![Leaderboard Page](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/leader_board.png)
 
 <hr></hr>
 
 ### New Question Page
-![New Question Page](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/new_question_page.png)
+![New Question Page](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/new_question.png)
 
 <hr></hr>
 
 ### Question Page
-![Question Page](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/question_page.png)
+![Question Page](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/question_page.png)
 
 <hr></hr>
 
 ### Question Page after selecting
-![Question Page after selecting](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/after_selecting_question_page.png)
+![Question Page after selecting](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/after_selecting_page.png)
 
 <hr></hr>
 
 ### Login Page
-![Login Page](https://github.com/hashimbagasi/project-Employee-polls/blob/main/imgs%20for%20Github/login_page.png)
+![Login Page](https://github.com/abooajab/Employee_pollsNew/blob/main/imgs%20for%20Github/login_page.png)
 
 
 
